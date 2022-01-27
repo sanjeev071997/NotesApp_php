@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.main_div{
+    height: 100vh;
+}
+
+.card {
+    box-shadow: 0px 1px 36px 5px rgba(0,0,0,0.28);
+    border-radius: 5px;
+}
